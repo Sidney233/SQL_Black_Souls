@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="823e196e-86ef-4ce6-8a57-4dfc2691771d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="d8fbed9b-7c14-486e-9de2-06fee4199745" />
+  <component name="ProjectId" id="1ilzWUPUI9s1pYfy0A2aG2TDAGm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123\PycharmProjects\SQL\app\templates" />
+      <recent name="C:\Users\123\PycharmProjects\Flask_Example-main\templates" />
+      <recent name="C:\Users\123\PycharmProjects\Flask_Example-main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\PycharmProjects\SQL\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.black_souls">
+    <configuration name="Flask_Example-main" type="PythonConfigurationType" factoryName="Python">
+      <module name="Flask_Example-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\123\PycharmProjects\SQL\black_souls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SQL" type="PythonConfigurationType" factoryName="Python">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/add_user.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="black_souls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\123\anaconda3\envs\nlp3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/black_souls.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/find.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="routes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SQL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/routes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.black_souls" />
+        <item itemvalue="Python.find" />
+        <item itemvalue="Python.add_user" />
+        <item itemvalue="Python.routes" />
+        <item itemvalue="Python.create_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823e196e-86ef-4ce6-8a57-4dfc2691771d" name="Default Changelist" comment="" />
+      <created>1602496997612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602496997612</updated>
+      <workItem from="1602497001975" duration="1080000" />
+      <workItem from="1602498139458" duration="436000" />
+      <workItem from="1602498589488" duration="27000" />
+      <workItem from="1602498631373" duration="9000" />
+      <workItem from="1602499035983" duration="1549000" />
+      <workItem from="1602633995321" duration="2281000" />
+      <workItem from="1602636467286" duration="808000" />
+      <workItem from="1602638044286" duration="401000" />
+      <workItem from="1602638514637" duration="1105000" />
+      <workItem from="1602669446993" duration="4227000" />
+      <workItem from="1602684814239" duration="2949000" />
+      <workItem from="1602718893672" duration="1131000" />
+      <workItem from="1602746843464" duration="2184000" />
+      <workItem from="1602769462052" duration="5971000" />
+      <workItem from="1602808018756" duration="4296000" />
+      <workItem from="1602813294140" duration="1576000" />
+      <workItem from="1602814979487" duration="379000" />
+      <workItem from="1602815439609" duration="876000" />
+      <workItem from="1602816485016" duration="1702000" />
+      <workItem from="1602818234460" duration="1807000" />
+      <workItem from="1602831625023" duration="11000" />
+      <workItem from="1602861698406" duration="1490000" />
+      <workItem from="1602863391142" duration="564000" />
+      <workItem from="1602981234870" duration="4555000" />
+      <workItem from="1603030452656" duration="877000" />
+      <workItem from="1603031385168" duration="511000" />
+      <workItem from="1603065271243" duration="864000" />
+      <workItem from="1603066803847" duration="4022000" />
+      <workItem from="1603071274886" duration="547000" />
+      <workItem from="1603079464397" duration="818000" />
+      <workItem from="1603080304168" duration="606000" />
+      <workItem from="1603081819040" duration="860000" />
+      <workItem from="1603123188017" duration="123000" />
+      <workItem from="1603123374508" duration="1004000" />
+      <workItem from="1603124831046" duration="1938000" />
+      <workItem from="1603151581215" duration="296000" />
+      <workItem from="1603160286246" duration="12000" />
+      <workItem from="1603160646308" duration="9000" />
+      <workItem from="1603179952294" duration="4050000" />
+      <workItem from="1603189604231" duration="2711000" />
+      <workItem from="1603204588172" duration="2000" />
+      <workItem from="1603239010154" duration="3658000" />
+      <workItem from="1603259018992" duration="101000" />
+      <workItem from="1603275915495" duration="322000" />
+      <workItem from="1603436195888" duration="45000" />
+      <workItem from="1603525484818" duration="3767000" />
+      <workItem from="1603591071625" duration="4193000" />
+      <workItem from="1603602495907" duration="12732000" />
+      <workItem from="1603632189500" duration="6437000" />
+      <workItem from="1603870779871" duration="327000" />
+      <workItem from="1603891553944" duration="51000" />
+      <workItem from="1606442397038" duration="187000" />
+      <workItem from="1606809497120" duration="26000" />
+      <workItem from="1606894098814" duration="3159000" />
+      <workItem from="1606902259481" duration="4003000" />
+      <workItem from="1606922030308" duration="19000" />
+      <workItem from="1606922050824" duration="52000" />
+      <workItem from="1606922224374" duration="343000" />
+      <workItem from="1606991244975" duration="266000" />
+      <workItem from="1606991521167" duration="2616000" />
+      <workItem from="1606999380068" duration="9605000" />
+      <workItem from="1607046367279" duration="7711000" />
+      <workItem from="1607069169543" duration="1549000" />
+      <workItem from="1607156376536" duration="4255000" />
+      <workItem from="1607161188650" duration="7307000" />
+      <workItem from="1607235172187" duration="10493000" />
+      <workItem from="1607255908812" duration="11747000" />
+      <workItem from="1607269138272" duration="4561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="27" key="#Flask_Example-main" timestamp="1602497024446">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="384" y="27" key="#Flask_Example-main/0.0.1368.872@0.0.1368.872" timestamp="1602497024446" />
+    <state x="45" y="277" key="#SQL_Dialects" timestamp="1607249376247">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="45" y="277" key="#SQL_Dialects/0.0.1368.872@0.0.1368.872" timestamp="1607249376247" />
+    <state x="365" y="171" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603123404001">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="365" y="171" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1368.872@0.0.1368.872" timestamp="1603123404001" />
+    <state x="440" y="138" key="#xdebugger.evaluate" timestamp="1602499125022">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="440" y="138" key="#xdebugger.evaluate/0.0.1368.872@0.0.1368.872" timestamp="1602499125022" />
+    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1606991510864">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1606991510864" />
+    <state width="1326" height="388" key="GridCell.Tab.-1.bottom" timestamp="1603605429850">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.-1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1603605429850" />
+    <state width="1326" height="388" key="GridCell.Tab.-1.center" timestamp="1603605429850">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.-1.center/0.0.1368.872@0.0.1368.872" timestamp="1603605429850" />
+    <state width="1326" height="388" key="GridCell.Tab.-1.left" timestamp="1603605429850">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.-1.left/0.0.1368.872@0.0.1368.872" timestamp="1603605429850" />
+    <state width="1326" height="388" key="GridCell.Tab.-1.right" timestamp="1603605429850">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.-1.right/0.0.1368.872@0.0.1368.872" timestamp="1603605429850" />
+    <state width="663" height="304" key="GridCell.Tab.0.bottom" timestamp="1607274779543">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="304" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1607274779543" />
+    <state width="663" height="304" key="GridCell.Tab.0.center" timestamp="1607274779542">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="304" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1607274779542" />
+    <state width="663" height="304" key="GridCell.Tab.0.left" timestamp="1607274779542">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="304" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1607274779542" />
+    <state width="663" height="304" key="GridCell.Tab.0.right" timestamp="1607274779542">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="663" height="304" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1607274779542" />
+    <state width="1326" height="388" key="GridCell.Tab.1.bottom" timestamp="1603605426608">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1603605426608" />
+    <state width="1326" height="388" key="GridCell.Tab.1.center" timestamp="1603605426608">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1603605426608" />
+    <state width="1326" height="388" key="GridCell.Tab.1.left" timestamp="1603605426608">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1603605426608" />
+    <state width="1326" height="388" key="GridCell.Tab.1.right" timestamp="1603605426608">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1603605426608" />
+    <state x="186" y="80" key="SettingsEditor" timestamp="1603612621735">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="80" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1603612621735" />
+    <state width="690" height="442" key="XDebugger.FullValuePopup" timestamp="1607176434490">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="690" height="442" key="XDebugger.FullValuePopup/0.0.1368.872@0.0.1368.872" timestamp="1607176434490" />
+    <state x="351" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1607257549019">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="351" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1607257549019" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/find.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="find_item" language="Python" />
+        <watch expression="users_dic" language="Python" />
+        <watch expression="current_user" language="Python" />
+        <watch expression="current_user.weapon_id" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/app_py$Flask_Example_main.coverage" NAME="Flask_Example-main Coverage Results" MODIFIED="1606809513109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Flask_Example_main$1.coverage" NAME="1 Coverage Results" MODIFIED="1603192253552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SQL$create_db.coverage" NAME="create_db Coverage Results" MODIFIED="1607157216302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SQL$routes.coverage" NAME="routes Coverage Results" MODIFIED="1607255387903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/SQL$find.coverage" NAME="find Coverage Results" MODIFIED="1607272165145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/app_py$Flask__black_souls_py_.coverage" NAME="Flask (black_souls.py) Coverage Results" MODIFIED="1606921438353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Flask_Example_main$Flask_Example_main.coverage" NAME="Flask_Example-main Coverage Results" MODIFIED="1603179992575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/app_py$black_souls.coverage" NAME="black_souls Coverage Results" MODIFIED="1606922004400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SQL$black_souls.coverage" NAME="black_souls Coverage Results" MODIFIED="1607272173975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1_py$1.coverage" NAME="1 Coverage Results" MODIFIED="1603615272007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SQL$add_user.coverage" NAME="add_user Coverage Results" MODIFIED="1607256433210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+    <SUITE FILE_PATH="coverage/1_py$Flask_Example_main.coverage" NAME="Flask_Example-main Coverage Results" MODIFIED="1603638749582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

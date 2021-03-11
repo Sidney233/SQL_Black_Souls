@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>木箱</h1>
+    {% for item in items %}
+        <a href="/equipment/{{ item.id }}">
+            {{ item.name }}
+        </a>
+    {% endfor %}
+{% endblock %}
